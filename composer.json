@@ -1,0 +1,9 @@
+{
+    "name": "aya/appli",
+    "autoload": {
+        "psr-4": {
+            "Aya\\Appli\\": "src/"
+        }
+    },
+    "require": {}
+}
